@@ -14,5 +14,8 @@ def link
   puts output
 end
 
-def all_phrases (mario, todstool, link)
+def all_phrases
+  puts mario
+  puts toadstool
+  puts link
 end
