@@ -9,4 +9,7 @@ def toadstool
   puts status
 end
 
-def  
+def link
+  output = "It's Dangerous To Go Alone! Take This."
+  puts output
+end
