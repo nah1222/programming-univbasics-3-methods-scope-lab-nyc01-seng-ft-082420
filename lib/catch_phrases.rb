@@ -13,3 +13,6 @@ def link
   output = "It's Dangerous To Go Alone! Take This."
   puts output
 end
+
+def all_phrases (mario, todstool, link)
+end
